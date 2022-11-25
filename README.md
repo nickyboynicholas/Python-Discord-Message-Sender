@@ -1,5 +1,6 @@
 # Python-Discord-Message-Sender
 this is my first repository this will only do filtering messages and sending messages through txt files
+
 Goals:
 1. Improve on Txt Editing Flexibility
 2. Add Try and Excepts errors for simple misinputs
